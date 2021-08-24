@@ -4,7 +4,7 @@ This is a project that I created to retrieve information from the USDA website.
 The nutritional information is long and extensive, but not all the information was needed. This was created to get only the nutrition facts needed for ChefTec
 Below are the nutrients and information needed from USDA.
 For a good representation of what it looks like check out this note book first :
-[USDA_API_GETS_with_input.ipynb]
+[USDA API GETS with input)(USDA_API_GETS_with_input.ipynb)
 
 Nutrient values needed for ChefTec (In order)
 - Calcium, Ca
