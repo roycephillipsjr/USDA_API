@@ -7,7 +7,8 @@ Below are the nutrients and information needed from USDA.
 For a good representation of what it looks like check out this note book first:<br>
 [USDA API GETS with input](USDA_API_GETS_with_input.ipynb)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EgU7TDzCM4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+To see how it works click the YouTube link:
+https://www.youtube.com/watch?v=EgU7TDzCM4c
 
 Nutrient values needed for ChefTec (In order)
 - Calcium, Ca
