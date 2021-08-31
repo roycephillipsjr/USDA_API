@@ -8,7 +8,7 @@ For a good representation of what it looks like check out this note book first:<
 [USDA API GETS with input](USDA_API_GETS_with_input.ipynb)
 
 To see how it works click the YouTube link:
-https://www.youtube.com/watch?v=EgU7TDzCM4c
+https://www.youtube.com/watch?v=G47FQkJYW9E
 
 Nutrient values needed for ChefTec (In order)
 - Calcium, Ca
